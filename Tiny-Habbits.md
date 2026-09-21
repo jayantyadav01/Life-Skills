@@ -31,7 +31,4 @@ Instead of thinking, "I want to read more books," I can think, "I am a reader." 
 Question 6
 
 The book explains that we can make a habit easier by reducing the effort and friction required to do it.
-
-Some ways are:
-
-Make the habit v
+ 
