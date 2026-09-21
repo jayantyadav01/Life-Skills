@@ -7,11 +7,8 @@ The most interesting idea for me was that a habit does not have to start with a 
 Question 2
 
 B = MAP means Behavior = Motivation + Ability + Prompt.
-
 M – Motivation: The desire or willingness to do the behavior.
-
 A – Ability: How easy or difficult the behavior is to perform.
-
 P – Prompt: A reminder or trigger that tells us to perform the behavior.
 
 Question 3
@@ -25,10 +22,30 @@ The most interesting idea for me was the idea of getting 1% better every day. A 
 Question 5
 
 The book's perspective is that changing our identity is more powerful than focusing only on the result we want.
-
 Instead of thinking, "I want to read more books," I can think, "I am a reader." Instead of saying, "I want to become a good programmer," I can think, "I am a programmer who practices every day."
 
 Question 6
 
 The book explains that we can make a habit easier by reducing the effort and friction required to do it.
+Make the habit very small.
+Prepare everything needed beforehand.
+Keep the things needed for the habit easily accessible.
+Use the two-minute rule and start with a very easy version of the habit.
+Create an environment that supports the habit.
+ 
+Question 7
+
+To make a bad habit harder to do, I can increase the amount of effort or friction required to perform it.
+The idea is to make the unwanted behavior less convenient. When there are more steps between the cue and the behavior, it becomes harder to perform the habit automatically. This is the opposite of making a good habit easy.
+
+Question 8
+
+One habit I would like to do more of is practicing programming every day.
+I can also connect the habit to an existing routine, such as starting programming practice after breakfast. This gives me a clear prompt to begin.
+
+Question 9
+
+One habit I would like to reduce is spending too much time on my phone and social media.
+
+ 
  
