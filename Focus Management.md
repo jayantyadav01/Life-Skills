@@ -7,15 +7,13 @@
 * Information and emotions can negatively affect the ability to focus.
 * Deep focus requires at least an hour of uninterrupted time because it can take up to 20 minutes for the mind to clear the mental residue from previous thoughts or activities. If someone codes for only 30 minutes, only 10–15 minutes may be spent in actual deep focus. A 60–90 minute session provides a better period of concentrated work and allows more meaningful progress before mental exhaustion begins.
 
+## Question 2
 ### Deep Work Summary
 
 * Deep work refers to professional activities performed without distraction that push cognitive abilities to their limits, create new value, improve skills, and are difficult for others to replicate.
 * J.K. Rowling used deep work to complete the final book of her Harry Potter series, *The Deathly Hallows*, in 2007.
 * Bill Gates used deep work in 1974 to program the first version of BASIC in just 8 weeks.
 * Deep work can significantly increase productivity and can potentially double the amount of valuable work produced.
-
-## Question 2
-
 * Intense periods of focused work in specific areas can cause myelin to develop around the relevant neural pathways. **Myelin** is a white, fatty tissue that develops around neurons and allows brain signals to travel faster and more efficiently.
 
 ## Question 3
